@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/one"
+        android:title="Cabbage"/>
+
+    <item
+        android:id="@+id/two"
+        android:title="Carrot"/>
+
+    <item
+        android:id="@+id/three"
+        android:title="Beetroot"/>
+
+    <item
+        android:id="@+id/three"
+        android:title="Mint"/>
+
+</menu>
